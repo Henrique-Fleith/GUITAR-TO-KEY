@@ -2,6 +2,7 @@
 
 GUITATOKEY allows you to detect frequencies of musical notes on the guitar and assign specific keys to each note. 
 You can play and write with the guitar, without having to install many programs
+(Use a clean microphone conection of the guitar with the computer, use a audio interface)
 
 ## Features
 
